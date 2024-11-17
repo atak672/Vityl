@@ -25,7 +25,6 @@ This project marks my first attempt at creating this iOS app and serves as a fou
 - **Discogs API**: Access comprehensive music metadata, including SKUs, barcodes, and tracklists.  
 - **SwiftUI**: Design user profiles and visual elements.  
 - **SwiftData**: Store collection details, reviews, and user profiles locally.  
-- **Core ML**: Implement recommendation algorithms for personalized suggestions.  
 - **CloudKit**: Manage backend services, including real-time updates, user authentication, and forum data.  
 
 
